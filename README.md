@@ -43,22 +43,22 @@ Para executar o projeto, use o comando:
 Você será solicitado a fornecer o caminho do diretório raiz. A partir daí, pode usar o menu interativo para utilizar as funcionalidades do simulador.
 
 ### Exemplo de Uso
-
-Digite o caminho do diretório raiz: /home/usuario
---------------------------------------
-Simulador de Sistemas de Arquivos:
-m - Criar diretório
-c - Mudar diretório corrente
-d - Remover arquivo
-p - Apresentar a árvore realizando um percurso em profundidade
-l - Apresentar a árvore realizando um percurso em largura
-s - Sair
---------------------------------------
-Digite a opção desejada: m
-Digite o nome do diretório a ser criado no diretório atual: novo_diretorio
-Diretório criado com sucesso!
-
-
+  
+Digite o caminho do diretório raiz: /home/usuario  
+--------------------------------------  
+Simulador de Sistemas de Arquivos:   
+m - Criar diretório  
+c - Mudar diretório corrente  
+d - Remover arquivo  
+p - Apresentar a árvore realizando um percurso em profundidade  
+l - Apresentar a árvore realizando um percurso em largura  
+s - Sair  
+--------------------------------------  
+Digite a opção desejada: m  
+Digite o nome do diretório a ser criado no diretório atual: novo_diretorio  
+Diretório criado com sucesso!  
+  
+  
 ### Autores
   
 Pedro Loureiro Morone Branco Volpe (me)
