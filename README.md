@@ -32,14 +32,14 @@ Para compilar o projeto, use o comando:
 
 ```sh
 g++ -o simulador_sistema_de_arquivos main.cpp
-
+```
 ### Execução 
   
 Para executar o projeto, use o comando:
 
-'''sh
+```sh
 ./simulador_sistema_de_arquivos
-
+```
 Você será solicitado a fornecer o caminho do diretório raiz. A partir daí, pode usar o menu interativo para utilizar as funcionalidades do simulador.
 
 ### Exemplo de Uso
